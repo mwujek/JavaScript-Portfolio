@@ -1,0 +1,71 @@
+body{
+	background:#fff;
+	color:#333;
+}
+
+#container{
+	max-width: 600px;
+	margin: 60px auto;
+}
+
+.h1,.h2,.h3,.h4,.h5,.h6{
+	color:#333;
+	font-size: 30px;
+	margin: 5px;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	font-weight: 300;
+}
+
+.p1,.p2,.p3{
+	color:#333;
+	font-size: 14px;
+	margin: 5px;
+	letter-spacing: 1px;
+}
+
+p{
+	line-height: 25px;
+	margin-bottom: 20px !important;
+}
+
+.h1{
+	font-family: "apertura", sans-serif;
+	/*color:red;*/
+}
+
+.h2{
+	font-family: "nudista-web", sans-serif;
+}
+
+.h3{
+	font-family: "runda", sans-serif;
+}
+
+.h4{
+	font-family:  "omnes-pro" , sans-serif;
+}
+
+.h5{
+	font-family: "effra", sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.h6{
+	font-family: "adelle-sans", sans-serif;
+}
+
+.p1{
+	font-family: "anonymous-pro", sans-serif;
+}
+
+.p2{
+	font-family: "ubuntu-mono", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.p3{
+	font-family: "fira-mono", sans-serif;
+}
